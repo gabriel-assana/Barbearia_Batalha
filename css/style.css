@@ -69,11 +69,11 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    border-color: #ad8b47;
+    border-color: #c49944;
 }
 
 .produtos li:active {
-    border-color: #088C19;
+    border-color: #888a25;
 }
 
 .produtos li:hover h2 {
@@ -158,6 +158,18 @@ footer {
     width: 120px;
     float: left;
     margin: 0 20px 20px 0;
+}
+
+.icon-localizacao {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.localizacao-img {
+    display: flex;
+    width: 10%;
+    flex-wrap: wrap;
 }
 
 .mapa {
