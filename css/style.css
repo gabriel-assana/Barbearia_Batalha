@@ -298,3 +298,268 @@ footer {
         right: 0;
     }
 }
+
+@media screen and (max-width: 521px) and (min-width: 481px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .div-principal {
+        width: 100%;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .servicos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .cabelo,
+    .barba,
+    .cabelo-barba {
+        width: 100%;
+    }
+    .produtos li {
+        width: 50%;
+    }
+    .li-barba,
+    .li-cabelo-barba {
+        margin-top: 30px;
+    }
+    .facebook-img {
+        width: 12%;
+        position: fixed;
+        bottom: 118px;
+        right: 2px;
+    }
+    .instagram-img {
+        width: 19%;
+        position: fixed;
+        bottom: 60px;
+        right: -15px
+    }
+    .whatsapp-img {
+        width: 13%;
+        position: fixed;
+        bottom: 10px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 600px) and (min-width: 522px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .div-principal {
+        width: 100%;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .servicos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .cabelo,
+    .barba,
+    .cabelo-barba {
+        width: 100%;
+    }
+    .produtos li {
+        width: 50%;
+    }
+    .li-barba,
+    .li-cabelo-barba {
+        margin-top: 30px;
+    }
+    .facebook-img {
+        width: 12%;
+        position: fixed;
+        bottom: 140px;
+        right: 5px;
+    }
+    .instagram-img {
+        width: 19%;
+        position: fixed;
+        bottom: 70px;
+        right: -14px
+    }
+    .whatsapp-img {
+        width: 13%;
+        position: fixed;
+        bottom: 10px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 750px) and (min-width: 601px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .div-principal {
+        width: 100%;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .servicos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .cabelo,
+    .barba,
+    .cabelo-barba {
+        width: 100%;
+    }
+    .produtos li {
+        width: 50%;
+    }
+    .li-barba,
+    .li-cabelo-barba {
+        margin-top: 30px;
+    }
+    .facebook-img {
+        width: 12%;
+        position: fixed;
+        bottom: 165px;
+        right: 5px;
+    }
+    .instagram-img {
+        width: 19%;
+        position: fixed;
+        bottom: 83px;
+        right: -21px
+    }
+    .whatsapp-img {
+        width: 13%;
+        position: fixed;
+        bottom: 10px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 839px) and (min-width: 751px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .div-principal {
+        width: 100%;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .servicos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .cabelo,
+    .barba,
+    .cabelo-barba {
+        width: 100%;
+    }
+    .produtos li {
+        width: 50%;
+    }
+    .li-barba,
+    .li-cabelo-barba {
+        margin-top: 30px;
+    }
+    .facebook-img {
+        width: 12%;
+        position: fixed;
+        bottom: 197px;
+        right: 5px;
+    }
+    .instagram-img {
+        width: 19%;
+        position: fixed;
+        bottom: 97px;
+        right: -25px
+    }
+    .whatsapp-img {
+        width: 13%;
+        position: fixed;
+        bottom: 10px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 925px) and (min-width: 840px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .div-principal {
+        width: 100%;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .servicos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .cabelo,
+    .barba,
+    .cabelo-barba {
+        width: 100%;
+    }
+    .produtos li {
+        width: 50%;
+    }
+    .li-barba,
+    .li-cabelo-barba {
+        margin-top: 30px;
+    }
+    .facebook-img {
+        width: 12%;
+        position: fixed;
+        bottom: 210px;
+        right: 8px;
+    }
+    .instagram-img {
+        width: 19%;
+        position: fixed;
+        bottom: 102px;
+        right: -27px
+    }
+    .whatsapp-img {
+        width: 13%;
+        position: fixed;
+        bottom: 10px;
+        right: 0;
+    }
+}
