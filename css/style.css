@@ -238,20 +238,23 @@ footer {
     position: fixed;
     bottom: 130px;
     right: 5px;
+    Object-fit: cover;
 }
 
 .instagram-img {
     width: 8%;
     position: fixed;
     bottom: 60px;
-    right: -15px
+    right: -15px;
+    Object-fit: cover;
 }
 
 .whatsapp-img {
     width: 5%;
     position: fixed;
     bottom: 6px;
-    right: 6px
+    right: 6px;
+    Object-fit: cover;
 }
 
 @media screen and (max-width: 480px) {
