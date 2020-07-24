@@ -257,6 +257,10 @@ footer {
     Object-fit: cover;
 }
 
+.img-rodape {
+    width: 20vw;
+}
+
 @media screen and (max-width: 480px) {
     .caixa,
     .principal,
