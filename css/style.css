@@ -116,6 +116,24 @@ footer {
     margin: 20px 0 0;
 }
 
+.sociais {
+    display: inline-block;
+}
+
+.wpp {
+    margin-top: 20%;
+    display: block;
+}
+
+.in {
+    margin-top: 20%;
+    display: block;
+}
+
+.link-social {
+    font-size: 2px;
+}
+
 
 /* css da página inicial */
 
